@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Kegiatan 1/Kegiatan 1.iml" filepath="$PROJECT_DIR$/Kegiatan 1/Kegiatan 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Kegiatan 2/Kegiatan 2.iml" filepath="$PROJECT_DIR$/Kegiatan 2/Kegiatan 2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Latihan 1/Latihan 1.iml" filepath="$PROJECT_DIR$/Latihan 1/Latihan 1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Latihan 2/Latihan 2.iml" filepath="$PROJECT_DIR$/Latihan 2/Latihan 2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Modul 3.iml" filepath="$PROJECT_DIR$/.idea/Modul 3.iml" />
