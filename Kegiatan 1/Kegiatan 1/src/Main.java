@@ -15,18 +15,18 @@ public class Main {
             switch (choice) {
                 case 1:
                     System.out.print("Masukkan string: ");
-                    scanner.nextLine(); // consume newline character
+                    scanner.nextLine();
                     input = scanner.nextLine();
 
                     Stack stack = new Stack(input.length());
 
-                    // push each character of the input string onto the stack
+
                     for (int i = 0; i < input.length(); i++) {
                         char c = input.charAt(i);
                         stack.push(c);
                     }
 
-                    // pop each character from the stack to get the reversed string
+
                     StringBuilder reversed = new StringBuilder();
                     while (!stack.isEmpty()) {
                         char c = stack.pop();
